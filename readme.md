@@ -4,4 +4,4 @@
 
 ## Moduuli 1
 
-Tein tehtävän 1 (hello.py).
+Tein tehtävän 1. (hello.py).
