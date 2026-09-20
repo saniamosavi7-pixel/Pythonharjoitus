@@ -1,0 +1,4 @@
+OHJEET:
+- Liiku komennolla: liiku
+- Tallenna peli komennolla: tallenna
+- Lopeta peli komennolla: lopeta
