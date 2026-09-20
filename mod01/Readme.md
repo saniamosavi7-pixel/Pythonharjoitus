@@ -9,4 +9,5 @@ Mod06 tein tehtävä 8
 Mod07 tein tehtävä 9
 Mod08 tein tehtävä 10 
 Mod09 tien tehtävä 11
-Tein  tehtävä 12  (1) Auto-peliprojekti kansio + tein tehtävä 12 (2)  kansio nimi tehtävä 12 
+Projekti 1 -3 tehty 
+projekti 4-5  keksken 
